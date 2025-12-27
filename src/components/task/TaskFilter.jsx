@@ -4,7 +4,7 @@ export const TaskFilter = ({ filter, setFilter }) => (
     value={filter}
     onChange={(e) => setFilter(e.target.value)}
   >
-    <option value="All">All Statuses</option>
+    <option value="All">All Status</option>
     <option value="Pending">Pending</option>
     <option value="Done">Done</option>
   </select>
