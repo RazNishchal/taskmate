@@ -1,7 +1,16 @@
 # Getting Started with Create React App
-### You can find this web app in https://taskmate-gold.vercel.app/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## You can find this web app in https://taskmate-gold.vercel.app/
 
+###You can view the live demo of my othr projects here:
+###Task Tracker with Login and Firebase DB: https://tasktrackernishchal.vercel.app/
+###My Portfolio Website: www.nishchalrajsubedi.com.np
+###Nepse Smart Calculator: https://delicate-pie-90da05.netlify.app/
+###Login and Sign (Form Validation): https://gleaming-syrniki-65735c.netlify.app/
+###Confess Note (Firebase DB Integerated): https://tranquil-biscuit-433084.netlify.app/
+
+Many other project are made as team project but havent deployed yet running currently in local host 😂😂😂😂
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
